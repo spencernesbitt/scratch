@@ -24,12 +24,12 @@
               {
                 "glob": "index.js",
                 "input": "./src/server/",
-                "output": "./dist"
+                "output": "."
               },
               {
                 "glob": "package.json",
                 "input": "./src/server/",
-                "output": "./dist"
+                "output": "."
               }
             ],
             "styles": [
